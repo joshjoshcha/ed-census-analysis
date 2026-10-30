@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+output/
+encounters.csv
+physician_shifts.csv
+reference/
+.DS_Store
